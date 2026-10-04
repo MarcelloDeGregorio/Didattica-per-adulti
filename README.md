@@ -1,1 +1,1 @@
-Applicazioni interattive esegui Da remoto per Imparare a leggere scrivere Nell'ambito Per educazione Per adulti analfabeti o di prima immigrazione
+Applicazioni interattive eseguibili da remoto per imparare a leggere, scrivere e comprendere la grammatica di base nell'ambito dell'educazione per adulti analfabeti o di prima immigrazione.
