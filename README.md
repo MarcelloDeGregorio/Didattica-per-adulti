@@ -1,1 +1,1 @@
-Applicazioni interattive eseguibili da remoto per imparare a leggere, scrivere e comprendere la grammatica di base nell'ambito dell'educazione degli adulti analfabeti o di prima immigrazione.
+Pagina che offre applicazioni interattive eseguibili da remoto per imparare a leggere, a scrivere e a conoscere e comprendere la grammatica di base. Utilizzabili da docenti e studenti nell'ambito dell'educazione degli adulti analfabeti o di prima immigrazione.
